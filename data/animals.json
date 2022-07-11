@@ -101,11 +101,11 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
+      "name": "EVIL BOB",
+      "species": "Cat",
+      "diet": "carnivore",
       "personalityTraits": [
-        "hungry"
+        "anxious"
       ],
       "id": "10"
     }
