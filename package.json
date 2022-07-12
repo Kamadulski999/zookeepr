@@ -11,9 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "heroku": "^7.60.2"
   },
   "devDependencies": {
-    "jest": "^25.1.0"
+    "jest": "^25.5.4"
   }
 }
